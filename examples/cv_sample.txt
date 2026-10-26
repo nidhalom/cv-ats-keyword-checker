@@ -1,0 +1,24 @@
+Amine Benali
+Backend developer | Algiers
+
+Summary
+Backend developer with four years of experience building REST APIs and data services.
+I enjoy clean code, automated testing and shipping reliable services.
+
+Experience
+Backend developer, FinTech startup (2022 - 2025)
+- Built REST API services in Golang used by three internal teams.
+- Designed Postgres schemas and wrote migrations for a payments ledger.
+- Packaged services with Docker Compose for local development and staging.
+- Set up CI pipelines with GitHub Actions; wrote unit tests for every service.
+- Worked in an agile team with two-week sprints.
+
+Junior developer, digital agency (2020 - 2022)
+- Developed web interfaces with React and Node.js.
+- Wrote SQL reports for marketing campaigns.
+
+Education
+Master's degree in computer science.
+
+Skills
+Go, Python, SQL, PostgreSQL, Docker Compose, Git, Linux, React, Node.js

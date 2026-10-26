@@ -1,0 +1,17 @@
+Backend Engineer (Go)
+
+We are looking for a backend engineer to join our payments platform team.
+
+Responsibilities
+- Design and build REST API services in Go, with clear error handling and good test coverage.
+- Own the PostgreSQL schema, write migrations and tune slow queries.
+- Ship containerised services with Docker and deploy them to Kubernetes.
+- Maintain CI/CD pipelines (GitHub Actions) and automated unit tests.
+- Work with the frontend team on Next.js and TypeScript dashboards.
+
+Requirements
+- 3+ years of professional backend experience.
+- Strong knowledge of Go or another compiled language.
+- Solid understanding of SQL and relational data modelling.
+- Experience with Redis caching and message queues is a plus.
+- Good communication skills and an agile mindset.
