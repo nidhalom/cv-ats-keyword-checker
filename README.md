@@ -7,7 +7,7 @@ Synonyms are understood, so "Golang" counts as "Go" and "Postgres" counts as "Po
 ## Features
 
 - Reads CVs and job descriptions from TXT, Markdown, DOCX (paragraphs and tables) and PDF (via `pypdf`).
-- Built-in dictionary of about 60 technical skills with synonyms (for example `k8s` to Kubernetes,
+- Built-in dictionary of 49 technical skills with synonyms (for example `k8s` to Kubernetes,
   `nodejs` to Node.js, `ci/cd` to CI/CD). Longer phrases win over shorter ones, so "Docker Compose" is not also
   counted as a separate "Docker" match. A CV listing "Docker Compose" also counts as "Docker".
 - Generic keyword extraction: unigrams and bigrams from the job description, with French and English stopwords
