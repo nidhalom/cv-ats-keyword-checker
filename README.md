@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="ATS Keyword Checker — See your CV the way a recruiter's software does." width="100%"></p>
+
 # cv-ats-keyword-checker
 
 A command line tool that compares a CV (`.txt`, `.md`, `.docx` or `.pdf`) with a job description. It reports which
